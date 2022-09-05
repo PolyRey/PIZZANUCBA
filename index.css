@@ -70,8 +70,7 @@
     margin-left: 60em;
     margin-top: -28em;
 }
-/*secion   margin-top: 10em;
-    margin-left: 8em;*/
+/*secion*/
 .h3 {
     position: absolute;
     display: flex;
@@ -93,7 +92,7 @@
 .column {
     position: absolute;
     height: 100px;
-    width: 300px;
+    width: 400px;
     background-color: #252525;
     border-radius: 1em;
     left: 20em;
@@ -121,4 +120,35 @@
     width: 70px;
     border-radius: 15px;
     margin: 15px;
+}
+.Bennazianna {
+    color: white;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    margin-left: 100px;
+}
+.Benna1 {
+    color: grey;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    margin-left: 100px;
+    margin-top: -20px;
+}
+.Benna2 {
+    font-family: 'Montserrat';
+    background: linear-gradient(98.81deg, #FFA100 -0.82%, #FF005C 15.53%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-left: 100px;
+    margin-top: -15px;
+}
+.buttonbena {
+     background: linear-gradient(98.81deg, #FFA100 -0.90%, #FB103D 90.00%);
+     color: white;
+     border-style: none;
+     border-radius: 10px;
+     margin-left: 300px;
+     margin-top: -60px;
+
 }
