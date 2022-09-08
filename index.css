@@ -167,7 +167,7 @@
     width: 145px;
     background-color: #252525;
     border-radius: 1em;
-    left: 9em;
+    left: 4.4em;
 }
 .pizza-cat{
     position: absolute;
@@ -199,8 +199,9 @@
     width: 145px;
     background-color: #252525;
     border-radius: 1em;
-    left: 20em;
+    left: 16em;
 }
+
 .categorias-varias-h {
     color: white;
     font-family: 'Montserrat';
@@ -208,54 +209,252 @@
     margin-left: 12px;
     margin-top: 100px;
 }
+
 .categorias3{
     position: absolute;
     height: 160px;
     width: 145px;
     background-color: #252525;
     border-radius: 1em;
-    left: 31em;
+    left: 28em;
 }
+
 .categorias-varias-papas{
-color: white;
-font-family: 'Montserrat';
-font-weight: 400;
-margin-left: 32px;
-margin-top: 100px;
+     color: white;
+     font-family: 'Montserrat';
+     font-weight: 400;
+     margin-left: 32px;
+     margin-top: 100px;
 }
 
 .categorias4{
+     position: absolute;
+     height: 160px;
+     width: 145px;
+     background-color: #252525;
+     border-radius: 1em;
+     left: 39.6em;
+}
+.categorias-varias-indv{
+     color: white;
+     font-family: 'Montserrat';
+     font-weight: 400;
+     margin-left: 25px;
+     margin-top: 100px;
+}
+
+.categorias5{
     position: absolute;
     height: 160px;
     width: 145px;
     background-color: #252525;
     border-radius: 1em;
-    left: 41em;
-}
-.categorias-varias-indv{
-    color: white;
-font-family: 'Montserrat';
-font-weight: 400;
-margin-left: 25px;
-margin-top: 100px;
+    left: 51em;
 }
 
+.categorias-varias-wraps{
+     color: white;
+     font-family: 'Montserrat';
+     font-weight: 400;
+     margin-left: 46px;
+     margin-top: 100px;
+}
 
+.categorias6{
+     position: absolute;
+     height: 160px;
+     width: 145px;
+     background-color: #252525;
+     border-radius: 1em;
+     left: 62.4em;
+}
+.categorias-varias-taco {
+     color: white;
+     font-family: 'Montserrat';
+     font-weight: 400;
+     margin-left: 19px;
+     margin-top: 100px;
+}
+.categorias7{
+     position: absolute;
+     height: 160px;
+     width: 145px;
+     background-color: #252525;
+     border-radius: 1em;
+     left: 73.5em;
+}
 
+.categorias-varias-batido {
+       color: white;
+       font-family: 'Montserrat';
+       font-weight: 400;
+       margin-left: 33px;
+       margin-top: 100px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
+/*secion categorias-los mas populares*/
 
 .popu{
-    margin-top: 40em;
+     color: white;
+     font-family: 'Montserrat';
+     font-family: 200;
+     margin-top: 14em;
+     margin-left: 3.4em;
 }
 
+.card{
+     position: absolute;
+     height: 210px;
+     width: 290px;
+     background-color: #252525; 
+     border-radius: 14px;
+     margin-left: 3.7em;
+}
+.menupopu1{
+    height: 90px;
+    width: 230px;  
+    margin-left: 1.8em;
+    margin-top: 1em;
+}
+
+.Nombre {
+    color: white;
+    font-family: 'Montserrat';
+    font-weight: 200;
+    font-size: 16px;
+    margin-left: 2em;
+    margin-top: 1em;
+}
+
+.refe {
+    color: grey;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    margin-left: 1.8em;
+    margin-top: -20px;
+}
+
+.precio{
+    font-family: 'Montserrat';
+    background: linear-gradient(98.81deg, #FFA100 -0.82%, #FF005C 15.53%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 1.3em;
+    margin-left: 1.4em;
+    margin-top: -10px;
+}
+
+.buttonpopu{
+    background: linear-gradient(98.81deg, #FFA100 -0.90%, #FB103D 90.00%);
+     color: white;
+     border-style: none;
+     border-radius: 18px;
+     margin-left: 14em;
+     margin-top: -60px;
+     height: 30px;
+     width: 80px;
+}
+
+.card1{
+    position: absolute;
+    height: 210px;
+    width: 290px;
+    background-color: #252525; 
+    border-radius: 14px;
+    margin-left: 24em;
+}
+
+.card2{
+    position: absolute;
+    height: 210px;
+    width: 290px;
+    background-color: #252525; 
+    border-radius: 14px;
+    margin-left: 44em;
+}
+
+.card3{
+    position: absolute;
+    height: 210px;
+    width: 290px;
+    background-color: #252525; 
+    border-radius: 14px;
+    margin-left: 64em;
+}
+
+.card4{
+    position: absolute;
+    height: 210px;
+    width: 290px;
+    background-color: #252525; 
+    border-radius: 14px;
+    margin-left: 3.4em;
+    margin-top: 16em;
+}
+
+.card5{
+    position: absolute;
+    height: 210px;
+    width: 290px;
+    background-color: #252525; 
+    border-radius: 14px;
+    margin-left: 24em;
+    margin-top: 16em;
+}
+
+.card6{
+    position: absolute;
+    height: 210px;
+    width: 290px;
+    background-color: #252525; 
+    border-radius: 14px;
+    margin-left: 44em;
+    margin-top: 16em;
+}
+
+.card7{
+    position: absolute;
+    height: 210px;
+    width: 290px;
+    background-color: #252525; 
+    border-radius: 14px;
+    margin-left: 64em;
+    margin-top: 16em;
+}
+
+/*footer*/
+
+.footer{
+     color: white;
+     font-family: 'Montserrat';
+     font-family: 200;
+     font-size: 19px;
+     flex-direction: row;
+     position: absolute;
+     list-style: none;
+     flex-direction: row;
+     justify-content: space-between;
+     flex-wrap: wrap;
+}
+
+.final1{
+    list-style: none;
+    margin-top: 30em;
+    margin-left: 16em;
+}
+.final2{
+    list-style: none;
+   margin-top: -23;
+    margin-left: 27em;
+}
+.final3{
+    list-style: none;
+   margin-top: -23px;
+    margin-left: 40em;
+}
+
+.final4 {
+    margin-left: 26em;
+    margin-top: 2em;
+}
